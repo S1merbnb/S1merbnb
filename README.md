@@ -175,12 +175,12 @@ const samer = {
     },
     
     achievements: {
-        projectsCompleted: 450,
-        codingHours: 8500,
-        technologiesMastered: 125,
-        challengesSolved: 850,
-        certifications: 12,
-        clientSatisfaction: "98%"
+        projectsCompleted: 61,
+        codingHours: 2500,
+        technologiesMastered: 51,
+        challengesSolved: 85,
+        certifications: 6,
+        clientSatisfaction: "99%"
     },
     
     currentFocus: [
