@@ -248,7 +248,7 @@ const samer = {
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/api.png" width="70"/><br>
 <b>API Development</b><br>
-<sub>80+ APIs Built</sub>
+<sub>5+ APIs Built</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="70"/><br>
