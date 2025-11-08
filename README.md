@@ -32,17 +32,17 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
-<b>450+</b><br>
+<b>60+</b><br>
 Projects Completed
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/clock--v1.png" width="60"/><br>
-<b>8,500+</b><br>
+<b>2,500+</b><br>
 Coding Hours
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/><br>
-<b>125+</b><br>
+<b>50+</b><br>
 Technologies Mastered
 </td>
 <td align="center" width="25%">
@@ -67,12 +67,7 @@ Challenges Solved
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=S1merbnb&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Samer Ben Brahim github stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1merbnb&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" />
 
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S1merbnb&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak Stats"/>
@@ -146,72 +141,7 @@ Challenges Solved
 
 </div>
 
----
 
-## 🏗️ Architecture & Design Patterns
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Architecture Expertise] --> B[Microservices]
-    A --> C[RESTful APIs]
-    A --> D[GraphQL APIs]
-    A --> E[Event-Driven]
-    A --> F[Serverless]
-    A --> G[MVC Pattern]
-    A --> H[CQRS]
-    A --> I[DDD]
-    
-    style A fill:#00b3ff,stroke:#333,stroke-width:4px,color:#fff
-    style B fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style C fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style D fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style E fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style F fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style G fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style H fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style I fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-```
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="50"/><br>
-<b>API Design</b><br>
-RESTful | GraphQL | WebSocket
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/module.png" width="50"/><br>
-<b>Microservices</b><br>
-Docker | Kubernetes | Service Mesh
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="50"/><br>
-<b>Cloud Native</b><br>
-Serverless | Auto-Scaling | CI/CD
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50"/><br>
-<b>Security</b><br>
-OAuth 2.0 | JWT | Encryption
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/performance.png" width="50"/><br>
-<b>Performance</b><br>
-Caching | CDN | Optimization
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="50"/><br>
-<b>Testing</b><br>
-Unit | Integration | E2E
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -276,7 +206,6 @@ const samer = {
     },
     
     funFacts: [
-        "I debug with console.log() and I'm not ashamed! 🐛",
         "Coffee-to-code ratio: ☕ → 💻 = 1:100 lines",
         "Vim user... just kidding, VS Code for life! 😄"
     ],
@@ -289,138 +218,13 @@ const samer = {
 };
 ```
 
----
 
-## 🎯 Goals for 2025
 
-<div align="center">
-
-| Goal | Status | Target |
-|------|--------|--------|
-| 🏆 AWS Solutions Architect Professional | 🔄 In Progress | Q1 2025 |
-| 🤖 Master AI/ML & LLMs Integration | 🔄 In Progress | Q2 2025 |
-| 💼 Launch SaaS Product | 📋 Planning | Q3 2025 |
-| 🌐 Contribute to Major Open Source | ✅ Active | Ongoing |
-| 📚 Publish Technical Articles | ✅ Active | 24+ Articles |
-| 🎓 Azure Solutions Architect Expert | 📋 Planned | Q4 2025 |
-
-</div>
-
-<div align="center">
-
-```yaml
-2025_roadmap:
-  Q1:
-    - ☁️ Earn AWS Solutions Architect Professional Certification
-    - 🔧 Master Terraform & Infrastructure as Code
-    - 📖 Publish 6+ in-depth technical articles
-    
-  Q2:
-    - 🤖 Deep dive into AI/ML, focusing on LLMs and RAG systems
-    - 🎨 Build advanced Next.js 14 applications with AI features
-    - 🌟 Contribute to 5+ major open-source projects
-    
-  Q3:
-    - 💼 Launch and scale a production-ready SaaS platform
-    - 🚀 Implement advanced microservices architecture
-    - 📊 Master observability (Prometheus, Grafana, ELK)
-    
-  Q4:
-    - 🎓 Achieve Azure Solutions Architect Expert certification
-    - 🌐 Expand global professional network to 5000+ connections
-    - 🏆 Speak at 2+ technical conferences
-    - 📈 Mentor 20+ aspiring developers
-```
-
-</div>
 
 ---
 
-## 💼 Professional Highlights
 
-<div align="center">
 
-### 🎖️ Certifications & Achievements
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="70"/><br>
-<b>AWS Certified</b><br>
-Solutions Architect | Developer
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/azure-1.png" width="70"/><br>
-<b>Azure Certified</b><br>
-Cloud Administrator
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/docker.png" width="70"/><br>
-<b>DevOps Expert</b><br>
-Docker | Kubernetes
-</td>
-</tr>
-</table>
-
-### 📈 Impact Metrics
-
-```yaml
-career_stats:
-  total_projects: 450+
-  lines_of_code: 2.5M+
-  code_reviews: 1,200+
-  bugs_squashed: 3,500+
-  coffee_consumed: "∞"
-  
-impact:
-  client_satisfaction: 98%
-  on_time_delivery: 95%
-  performance_improvements: "40% avg reduction in load times"
-  cost_optimization: "35% avg reduction in cloud costs"
-  team_mentorship: "50+ developers guided"
-```
-
-</div>
-
----
-
-## 📚 Knowledge Sharing
-
-<div align="center">
-
-### ✍️ Technical Writing & Community
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/blog.png" width="60"/><br>
-<b>85+ Articles</b><br>
-Technical Blog Posts
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
-<b>850+ Solutions</b><br>
-Coding Challenges
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/teacher.png" width="60"/><br>
-<b>50+ Developers</b><br>
-Mentored
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/groups.png" width="60"/><br>
-<b>15+ Talks</b><br>
-Tech Presentations
-</td>
-</tr>
-</table>
-
-**Topics I Write About:**
-`System Design` • `Cloud Architecture` • `Performance Optimization` • `Best Practices` • `DevOps` • `Web Security`
-
-</div>
-
----
 
 ## 🌟 Featured Projects Showcase
 
@@ -434,22 +238,22 @@ Tech Presentations
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/web.png" width="70"/><br>
 <b>Enterprise Web Apps</b><br>
-<sub>150+ Projects</sub>
+<sub>20+ Projects</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="70"/><br>
 <b>Cloud Solutions</b><br>
-<sub>80+ Deployments</sub>
+<sub>10+ Deployments</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/api.png" width="70"/><br>
 <b>API Development</b><br>
-<sub>200+ APIs Built</sub>
+<sub>80+ APIs Built</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="70"/><br>
 <b>AI Integration</b><br>
-<sub>35+ AI Features</sub>
+<sub>15+ AI Features</sub>
 </td>
 </tr>
 </table>
@@ -516,28 +320,10 @@ availability:
 
 ---
 
-<div align="center">
 
-### 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br>
-
-### ⚡ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-<br>
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ### 💙 Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
