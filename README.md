@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/followers/S1merbnb?label=Followers&style=flat-square&color=blue" alt="followers"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 </div>
 
@@ -32,7 +32,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=S1merbnb&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
@@ -51,7 +51,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S1merbnb&custom_title=Samer's%20Contribution%20Graph&bg_color=0d1117&color=00b3ff&line=00b4ff&point=00b3ff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
@@ -133,7 +133,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
@@ -171,48 +171,8 @@ const samer = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌟 Project Portfolio</h3>
-<div align="center">  
-<a href="https://samerbenbrahim-software-engineer.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=google-chrome"/>
-</a>
-<p><strong>Personal Portfolio Website</strong> - Showcasing my skills, projects, and experience with a modern, responsive design.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">💡 More Projects Coming Soon</h3>
-<div align="center">  
-<p><strong>Innovative Solutions</strong> - Working on exciting projects in Full Stack Development, Cloud Computing, and AI/ML.</p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -222,19 +182,16 @@ const samer = {
 
 ```yaml
 objectives:
-  - 🚀 Contribute to major Open Source projects
   - 📚 Master Cloud Architecture (AWS/Azure Solutions Architect)
   - 🤖 Deep dive into AI/ML and LLMs
   - 💼 Build and launch a successful SaaS product
-  - 📝 Start a technical blog and share knowledge
-  - 🎓 Mentor aspiring developers
   - 🌐 Expand my professional network globally
   - 🏆 Earn advanced cloud certifications
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
@@ -261,55 +218,17 @@ objectives:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
-## 💬 Random Dev Quote
 
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 😄 Random Dev Meme
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S1merbnb/S1merbnb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S1merbnb/S1merbnb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/S1merbnb/S1merbnb/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 <div align="center">
 
 ### ⭐️ From [Samer Ben Brahim](https://github.com/S1merbnb) with 💙
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
