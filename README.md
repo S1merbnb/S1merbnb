@@ -152,17 +152,17 @@ const samer = {
     
     expertise: {
         languages: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Go"],
-        frontend: ["React", "Next.js", "Vue", "Angular", "Svelte", "Tailwind CSS"],
+        frontend: ["React", "Next.js", "Vue", "Angular", "Tailwind CSS"],
         backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot", "NestJS"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase", "Elasticsearch"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
         cloud: ["AWS (EC2, S3, Lambda, RDS)", "Azure", "Google Cloud Platform"],
-        devOps: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions", "Jenkins", "Terraform"],
+        devOps: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions", "Jenkins"],
         testing: ["Jest", "Cypress", "Pytest", "JUnit", "Selenium"],
-        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman", "Figma", "Jira"]
+        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman",  "Jira"]
     },
     
     architecture: {
-        patterns: ["Microservices", "Event-Driven", "CQRS", "DDD", "Hexagonal"],
+        patterns: ["Microservices", "Event-Driven", "CQRS"],
         apiDesign: ["RESTful APIs", "GraphQL", "gRPC", "WebSocket"],
         scalability: ["Load Balancing", "Caching", "Message Queues", "CDN"],
         security: ["OAuth 2.0", "JWT", "SSL/TLS", "API Gateway"]
