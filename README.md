@@ -1,323 +1,158 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samer%20Ben%20Brahim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
 
-<div align="center">
-  
-## Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Samer Ben Brahim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F3A5F&height=190&section=header&text=Samer%20Ben%20Brahim&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Junior%20Full-Stack%20Software%20Engineer%20%C2%B7%20Marburg%2C%20Germany&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Samer Ben Brahim · Junior Full-Stack Software Engineer · Marburg, Germany"/>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer | 🚀 Tech Enthusiast | ☁️ Cloud Engineer
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samer-ben-brahim-314a7b311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/S1merbnb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:samer.b.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://samerbenbrahim-software-engineer.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S1merbnb&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/S1merbnb?label=Followers&style=flat-square&color=blue" alt="followers"/>
-</p>
-
-</div>
-
----
-
-## 🎯 Professional Summary
-
-<div align="center">
-  
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
-<b>60+</b><br>
-Projects Completed
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/clock--v1.png" width="60"/><br>
-<b>2,500+</b><br>
-Coding Hours
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/><br>
-<b>50+</b><br>
-Technologies Mastered
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/><br>
-<b>85+</b><br>
-Challenges Solved
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S1merbnb&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S1merbnb&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak Stats"/>
-</div>
-
-
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack & Expertise</b>
-
-<div align="center">
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
-
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me</b>
-
-```javascript
-const samer = {
-    name: "Samer Ben Brahim",
-    title: "Senior Full Stack Developer & Cloud Architect",
-    location: "Tunisia 🇹🇳",
-    education: "Software Engineering",
-    experience: "5+ Years in Software Development",
-    pronouns: "He/Him",
-    
-    expertise: {
-        languages: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Go"],
-        frontend: ["React", "Next.js", "Vue", "Angular", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot", "NestJS"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
-        cloud: ["AWS (EC2, S3, Lambda, RDS)", "Azure", "Google Cloud Platform"],
-        devOps: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions", "Jenkins"],
-        testing: ["Jest", "Cypress", "Pytest", "JUnit", "Selenium"],
-        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman",  "Jira"]
-    },
-    
-    architecture: {
-        patterns: ["Microservices", "Event-Driven", "CQRS"],
-        apiDesign: ["RESTful APIs", "GraphQL", "gRPC", "WebSocket"],
-        scalability: ["Load Balancing", "Caching", "Message Queues", "CDN"],
-        security: ["OAuth 2.0", "JWT", "SSL/TLS", "API Gateway"]
-    },
-    
-    achievements: {
-        projectsCompleted: 61,
-        codingHours: 2500,
-        technologiesMastered: 51,
-        challengesSolved: 85,
-        certifications: 6,
-        clientSatisfaction: "99%"
-    },
-    
-    currentFocus: [
-        "Building enterprise-grade scalable applications",
-        "Cloud-native architecture & microservices",
-        "AI/ML integration in web applications",
-        "Performance optimization & security"
-    ],
-    
-    interests: [
-        "Web Development",
-        "Cloud Computing", 
-        "DevOps & Automation",
-        "AI/ML & LLMs",
-        "Blockchain Technology",
-        "System Design"
-    ],
-    
-    workStyle: {
-        methodology: ["Agile", "Scrum", "TDD", "Clean Code"],
-        collaboration: ["Remote-First", "Cross-Functional Teams", "Code Review"],
-        documentation: ["Technical Writing", "API Documentation", "Architecture Diagrams"]
-    },
-    
-    funFacts: [
-        "Coffee-to-code ratio: ☕ → 💻 = 1:100 lines",
-        "Vim user... just kidding, VS Code for life! 😄"
-    ],
-    
-    getMotivation: () => "Turning caffeine into clean, scalable code ☕ → 💻 → 🚀",
-    
-    collaborate: () => {
-        return "Always open to innovative projects and tech discussions!";
-    }
-};
-```
-
-
-
-
----
-
-
-
-
-## 🌟 Featured Projects Showcase
-
-<div align="center">
-
-> **Note:** Most of my professional work is proprietary and confidential. This README showcases my skills and expertise.
-> For collaboration inquiries or to discuss my portfolio, feel free to reach out!
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="70"/><br>
-<b>Enterprise Web Apps</b><br>
-<sub>20+ Projects</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="70"/><br>
-<b>Cloud Solutions</b><br>
-<sub>10+ Deployments</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/api.png" width="70"/><br>
-<b>API Development</b><br>
-<sub>5+ APIs Built</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="70"/><br>
-<b>AI Integration</b><br>
-<sub>15+ AI Features</sub>
-</td>
-</tr>
-</table>
-
-### 🔧 Project Categories
-
-```typescript
-interface ProjectExpertise {
-  eCommerce: "Full-stack solutions with payment integration",
-  saas: "Multi-tenant SaaS platforms with subscription management",
-  fintech: "Secure financial applications with compliance",
-  healthtech: "HIPAA-compliant health management systems",
-  edtech: "Learning management & educational platforms",
-  realtime: "WebSocket-based real-time applications",
-  apis: "High-performance RESTful & GraphQL APIs",
-  automation: "DevOps pipelines & infrastructure automation"
-}
-```
-
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/samer-ben-brahim-314a7b311">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:samer.b.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/S1merbnb">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://samerbenbrahim-software-engineer.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=2E6BB0&center=true&vCenter=true&width=640&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Angular;Python+%C2%B7+Django+%C2%B7+React;Practical+AI%3A+RAG+chatbots+%26+computer+vision;Open+to+full-time+roles+in+Germany" alt="Java · Spring Boot · Angular | Python · Django · React | Practical AI | Open to full-time roles in Germany"/>
 </a>
 
-<br><br>
-
-### 💬 Open to Opportunities
-
-```yaml
-looking_for:
-  - 🚀 Challenging full-stack development projects
-  - ☁️ Cloud architecture & DevOps consulting
-  - 🤝 Technical collaboration & partnerships
-  - 💼 Freelance & contract opportunities
-  - 🎤 Speaking engagements at tech conferences
-  - 📚 Technical writing & content creation
-
-availability:
-  status: "Open to new opportunities"
-  type: ["Full-time", "Contract", "Consulting"]
-  remote: true
-  relocation: "Open to discussion"
-```
-
-**💡 Let's build something amazing together!**
+<p>
+  <a href="https://samerbenbrahim-software-engineer.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/samer-ben-brahim-314a7b311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNUM0Ljk4IDQuODggMy44NyA2IDIuNSA2UzAgNC44OCAwIDMuNSAxLjEyIDEgMi41IDFzMi40OCAxLjEyIDIuNDggMi41ek0uNSA4aDR2MTZoLTRWOHptNy41IDBoMy44djIuMmguMDVjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyNGgtNHYtNy45YzAtMS44OC0uMDMtNC4zLTIuNjItNC4zLTIuNjIgMC0zLjAyIDIuMDUtMy4wMiA0LjE3VjI0aC00Vjh6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+  <a href="mailto:samer.b.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://samerbenbrahim-software-engineer.netlify.app/assets/images/CV_Samer_Ben_Brahim.pdf"><img src="https://img.shields.io/badge/CV-English-2E6BB0?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV (English)"/></a>
+  <a href="https://samerbenbrahim-software-engineer.netlify.app/assets/images/Lebenslauf_Samer_Ben_Brahim_DE.pdf"><img src="https://img.shields.io/badge/Lebenslauf-Deutsch-2E6BB0?style=for-the-badge&logo=googledocs&logoColor=white" alt="Lebenslauf (Deutsch)"/></a>
+</p>
 
 </div>
 
+## 👋 About me
+
+I'm a junior full-stack engineer based in **Marburg, Germany**. I build web applications end to end — Spring Boot or Django on the back end, Angular or React on the front end — and I add practical AI where it genuinely helps users.
+
+- 🎓 &nbsp;Engineering degree in Software Engineering from **ESPRIT Tunis** (07/2026), incl. two exchange semesters at **Philipps-Universität Marburg**
+- 🚀 &nbsp;Built and launched **two client platforms** as a freelancer — both live and used every day
+- 🏆 &nbsp;Lead developer of **TimeForge**, awarded *Best App of the Year (SE)* at ESPRIT
+- 🌍 &nbsp;Arabic (native) · French C1 · English C1 · **German B1** — and improving
+- 🔧 &nbsp;I studied industrial maintenance before switching to software; the systems thinking stayed with me
+- 💼 &nbsp;**Looking for a full-time junior full-stack role in Germany**
+
+## 🧩 Selected work
+
+> Most of this is client or internship work, so the code is private. Screenshots, demos and details are on my [portfolio](https://samerbenbrahim-software-engineer.netlify.app).
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🫒 Parametric Olive Insurance
+<sub>Final-year internship · Assurance Maghrebia · 2026</sub><br/>
+<img src="https://img.shields.io/badge/proof%20of%20concept-1F3A5F?style=flat-square" alt="Proof of concept"/> <img src="https://img.shields.io/badge/confidential-6E7781?style=flat-square" alt="Confidential"/>
+
+Crop insurance that compensates olive farmers automatically. Sentinel-2 satellite imagery and the Segment Anything Model score damage per olive variety; a Solidity smart contract records traceable payouts.
+
+`Spring Boot` `Angular` `Python` `Segment Anything` `Solidity`
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Nefzaoua Voyage
+<sub>Freelance · travel agency · 2025</sub><br/>
+<a href="https://www.nefzaoua-voyages.com"><img src="https://img.shields.io/badge/live-nefzaoua--voyages.com-2EA043?style=flat-square" alt="Live: nefzaoua-voyages.com"/></a>
+
+Booking platform where customers book tours and hotel rooms online, with real-time availability checks and automated email notifications.
+
+`Spring Boot` `JPA` `PostgreSQL` `Angular`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Mjoujma
+<sub>Freelance · restaurant business · 2025</sub><br/>
+<a href="https://mjoujma.com"><img src="https://img.shields.io/badge/live-mjoujma.com-2EA043?style=flat-square" alt="Live: mjoujma.com"/></a>
+
+Ordering and reservation platform used every day by the business: real-time order updates over WebSockets, table reservations and inventory management.
+
+`Django REST` `React` `PostgreSQL` `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Insurance RAG Chatbot
+<sub>AI engineering internship · Assurance Maghrebia · 2025</sub><br/>
+<img src="https://img.shields.io/badge/internship-1F3A5F?style=flat-square" alt="Internship"/> <img src="https://img.shields.io/badge/confidential-6E7781?style=flat-square" alt="Confidential"/>
+
+Trilingual chatbot (Tunisian Arabic, French, English) that answers customer questions about insurance products using retrieval-augmented generation.
+
+`Python` `Flask` `LLMs` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ TimeForge
+<sub>Team project · ESPRIT · 2025 · lead developer</sub><br/>
+<img src="https://img.shields.io/badge/Best%20App%20of%20the%20Year%20(SE)-D4A72C?style=flat-square" alt="Best App of the Year (SE)"/>
+
+AI-assisted productivity platform with personalized scheduling and smart task support. I led design and development for the team.
+
+`Spring Boot` `Angular` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛵 Food Delivery App
+<sub>Full-stack internship · Softavera · 2024</sub><br/>
+<img src="https://img.shields.io/badge/internship-1F3A5F?style=flat-square" alt="Internship"/>
+
+Complete food-delivery application with a customer storefront and an admin back office for restaurant owners.
+
+`React` `Node.js` `TypeScript` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech stack
+
+<table>
+<tr>
+<td align="right"><b>Back end</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,nodejs" alt="Java, Spring Boot, Python, Django, Flask, Node.js"/></td>
+</tr>
+<tr>
+<td align="right"><b>Front end</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,angular,react,html,css" alt="TypeScript, JavaScript, Angular, React, HTML, CSS"/></td>
+</tr>
+<tr>
+<td align="right"><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB"/> &nbsp;<sub>+ Oracle</sub></td>
+</tr>
+<tr>
+<td align="right"><b>Tools &amp; cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,linux,aws,rabbitmq,postman" alt="Docker, Git, Linux, AWS, RabbitMQ, Postman"/> &nbsp;<sub>+ Keycloak · CI/CD</sub></td>
+</tr>
+<tr>
+<td align="right"><b>AI</b></td>
+<td><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/> &nbsp;<sub>LLMs · RAG · NLP · computer vision · deep learning</sub></td>
+</tr>
+<tr>
+<td align="right"><b>Also used</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,cs,dotnet,php,symfony,c,solidity" alt="Next.js, C#, .NET, PHP, Symfony, C, Solidity"/></td>
+</tr>
+</table>
+
+## 📜 Certifications
+
+| Issuer | Certificate |
+|:--|:--|
+| **NVIDIA** | [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=6msZel3uTJe29rDAtepTLg) · [Building Transformer-Based NLP Applications](https://learn.nvidia.com/certificates?id=RgmdE99WRQy-KD5lAn5L4A) · [Applications of AI for Anomaly Detection](https://learn.nvidia.com/certificates?id=rsWhFbZgRAanGZYBR460sA) |
+| **Oracle** | [OCI 2025 Certified AI Foundations Associate](https://samerbenbrahim-software-engineer.netlify.app/assets/images/certif/pdf/Oracle%20Cloud%20Infrastructure%202025%20.pdf) · [OCI 2025 Certified Foundations Associate](https://samerbenbrahim-software-engineer.netlify.app/assets/images/certif/pdf/oracle%20founditions%20associate.pdf) · [Oracle Data Platform 2025 Certified Foundations Associate](https://samerbenbrahim-software-engineer.netlify.app/assets/images/certif/pdf/Oracle%20Data%20Platform%202025%20Certified%20Foundations%20Associate.pdf) |
+| **AWS** | [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/QQWnve2B) |
+
 ---
 
+<div align="center">
 
+**Hiring a junior full-stack developer in Germany?** I'd be glad to talk — [samer.b.dev@gmail.com](mailto:samer.b.dev@gmail.com)
 
-### 💙 Thanks for visiting!
+<sub>🇩🇪 Offen für Vollzeitstellen in Deutschland · Deutsch B1 · ab sofort verfügbar</sub>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://komarev.com/ghpvc/?username=S1merbnb&label=profile%20views&color=1F3A5F&style=flat-square" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:0D1117&height=110&section=footer" width="100%" alt=""/>
 
 </div>
