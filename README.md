@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://samerbenbrahim-software-engineer.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/samer-ben-brahim-314a7b311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNUM0Ljk4IDQuODggMy44NyA2IDIuNSA2UzAgNC44OCAwIDMuNSAxLjEyIDEgMi41IDFzMi40OCAxLjEyIDIuNDggMi41ek0uNSA4aDR2MTZoLTRWOHptNy41IDBoMy44djIuMmguMDVjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyNGgtNHYtNy45YzAtMS44OC0uMDMtNC4zLTIuNjItNC4zLTIuNjIgMC0zLjAyIDIuMDUtMy4wMiA0LjE3VjI0aC00Vjh6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/samer-benbrahim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNUM0Ljk4IDQuODggMy44NyA2IDIuNSA2UzAgNC44OCAwIDMuNSAxLjEyIDEgMi41IDFzMi40OCAxLjEyIDIuNDggMi41ek0uNSA4aDR2MTZoLTRWOHptNy41IDBoMy44djIuMmguMDVjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyNGgtNHYtNy45YzAtMS44OC0uMDMtNC4zLTIuNjItNC4zLTIuNjIgMC0zLjAyIDIuMDUtMy4wMiA0LjE3VjI0aC00Vjh6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
   <a href="mailto:samer.b.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://samerbenbrahim-software-engineer.netlify.app/assets/images/CV_Samer_Ben_Brahim.pdf"><img src="https://img.shields.io/badge/CV-English-2E6BB0?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV (English)"/></a>
   <a href="https://samerbenbrahim-software-engineer.netlify.app/assets/images/Lebenslauf_Samer_Ben_Brahim_DE.pdf"><img src="https://img.shields.io/badge/Lebenslauf-Deutsch-2E6BB0?style=for-the-badge&logo=googledocs&logoColor=white" alt="Lebenslauf (Deutsch)"/></a>
@@ -20,9 +20,9 @@
 
 I'm a junior full-stack engineer based in **Marburg, Germany**. I build web applications end to end, with Spring Boot or Django on the back end and Angular or React on the front end. Where it genuinely helps users, I add practical AI.
 
-- 🎓 &nbsp;Engineering degree in Software Engineering from **ESPRIT Tunis** (07/2026), incl. two exchange semesters at **Philipps-Universität Marburg**
+- 🎓 &nbsp;Engineering degree in Software Engineering from **ESPRIT Tunis** (07/2026) with highest honours, incl. two exchange semesters at **Philipps-Universität Marburg**
 - 🚀 &nbsp;Built and launched **two client platforms** as a freelancer, both live and used every day
-- 🏆 &nbsp;Lead developer of **TimeForge**, awarded *Best App of the Year (SE)* at ESPRIT
+- 🏆 &nbsp;Lead developer of **TimeForge**, winner of *1st Prize for Best Project (Software Engineering)* at ESPRIT's Bal des Projets 2025
 - 🌍 &nbsp;Arabic (native) · French C1 · English C1 · **German B1** and improving
 - 🔧 &nbsp;I studied industrial maintenance before switching to software; the systems thinking stayed with me
 - 💼 &nbsp;**Looking for a full-time junior full-stack role in Germany**
@@ -85,7 +85,7 @@ Trilingual chatbot (Tunisian Arabic, French, English) that answers customer ques
 
 ### ⏱️ TimeForge
 <sub>Team project · ESPRIT · 2025 · lead developer</sub><br/>
-<img src="https://img.shields.io/badge/Best%20App%20of%20the%20Year%20(SE)-D4A72C?style=flat-square" alt="Best App of the Year (SE)"/>
+<img src="https://img.shields.io/badge/1st%20Prize-Bal%20des%20Projets%202025-D4A72C?style=flat-square" alt="1st Prize, Bal des Projets 2025"/>
 
 AI-assisted productivity platform with personalized scheduling and smart task support. I led design and development for the team.
 
