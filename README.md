@@ -18,12 +18,12 @@
 
 ## 👋 About me
 
-I'm a junior full-stack engineer based in **Marburg, Germany**. I build web applications end to end — Spring Boot or Django on the back end, Angular or React on the front end — and I add practical AI where it genuinely helps users.
+I'm a junior full-stack engineer based in **Marburg, Germany**. I build web applications end to end, with Spring Boot or Django on the back end and Angular or React on the front end. Where it genuinely helps users, I add practical AI.
 
 - 🎓 &nbsp;Engineering degree in Software Engineering from **ESPRIT Tunis** (07/2026), incl. two exchange semesters at **Philipps-Universität Marburg**
-- 🚀 &nbsp;Built and launched **two client platforms** as a freelancer — both live and used every day
+- 🚀 &nbsp;Built and launched **two client platforms** as a freelancer, both live and used every day
 - 🏆 &nbsp;Lead developer of **TimeForge**, awarded *Best App of the Year (SE)* at ESPRIT
-- 🌍 &nbsp;Arabic (native) · French C1 · English C1 · **German B1** — and improving
+- 🌍 &nbsp;Arabic (native) · French C1 · English C1 · **German B1** and improving
 - 🔧 &nbsp;I studied industrial maintenance before switching to software; the systems thinking stayed with me
 - 💼 &nbsp;**Looking for a full-time junior full-stack role in Germany**
 
@@ -141,13 +141,13 @@ Complete food-delivery application with a customer storefront and an admin back 
 |:--|:--|
 | **NVIDIA** | [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=6msZel3uTJe29rDAtepTLg) · [Building Transformer-Based NLP Applications](https://learn.nvidia.com/certificates?id=RgmdE99WRQy-KD5lAn5L4A) · [Applications of AI for Anomaly Detection](https://learn.nvidia.com/certificates?id=rsWhFbZgRAanGZYBR460sA) |
 | **Oracle** | [OCI 2025 Certified AI Foundations Associate](https://samerbenbrahim-software-engineer.netlify.app/assets/images/certif/pdf/Oracle%20Cloud%20Infrastructure%202025%20.pdf) · [OCI 2025 Certified Foundations Associate](https://samerbenbrahim-software-engineer.netlify.app/assets/images/certif/pdf/oracle%20founditions%20associate.pdf) · [Oracle Data Platform 2025 Certified Foundations Associate](https://samerbenbrahim-software-engineer.netlify.app/assets/images/certif/pdf/Oracle%20Data%20Platform%202025%20Certified%20Foundations%20Associate.pdf) |
-| **AWS** | [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/QQWnve2B) |
+| **AWS** | [AWS Academy Graduate - Cloud Foundations](https://www.credly.com/go/QQWnve2B) |
 
 ---
 
 <div align="center">
 
-**Hiring a junior full-stack developer in Germany?** I'd be glad to talk — [samer.b.dev@gmail.com](mailto:samer.b.dev@gmail.com)
+**Hiring a junior full-stack developer in Germany?** I'd be glad to talk: [samer.b.dev@gmail.com](mailto:samer.b.dev@gmail.com)
 
 <sub>🇩🇪 Offen für Vollzeitstellen in Deutschland · Deutsch B1 · ab sofort verfügbar</sub>
 
