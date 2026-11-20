@@ -23,7 +23,7 @@ I'm a junior full-stack engineer based in **Marburg, Germany**. I build web appl
 - 🎓 &nbsp;Engineering degree in Software Engineering from **ESPRIT Tunis** (07/2026) with highest honours, incl. two exchange semesters at **Philipps-Universität Marburg**
 - 🚀 &nbsp;Built and launched **two client platforms** as a freelancer, both live and used every day
 - 🏆 &nbsp;Lead developer of **TimeForge**, winner of *1st Prize for Best Project (Software Engineering)* at ESPRIT's Bal des Projets 2025
-- 🌍 &nbsp;Arabic (native) · French C1 · English C1 · **German B1** and improving
+- 🌍 &nbsp;Arabic (native) · French C1 · English C1 · **German B1 completed, B2 course in progress** and improving
 - 🔧 &nbsp;I studied industrial maintenance before switching to software; the systems thinking stayed with me
 - 💼 &nbsp;**Looking for a full-time junior full-stack role in Germany**
 
@@ -149,7 +149,7 @@ Complete food-delivery application with a customer storefront and an admin back 
 
 **Hiring a junior full-stack developer in Germany?** I'd be glad to talk: [samer.b.dev@gmail.com](mailto:samer.b.dev@gmail.com)
 
-<sub>🇩🇪 Offen für Vollzeitstellen in Deutschland · Deutsch B1 · ab sofort verfügbar</sub>
+<sub>🇩🇪 Offen für Vollzeitstellen in Deutschland · German B1 completed, B2 course in progress · ab sofort verfügbar</sub>
 
 <img src="https://komarev.com/ghpvc/?username=S1merbnb&label=profile%20views&color=1F3A5F&style=flat-square" alt="Profile views"/>
 
